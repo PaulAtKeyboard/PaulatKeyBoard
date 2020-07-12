@@ -1,4 +1,8 @@
 ### Hi there 👋
+TIL: GitHub became more like a social media by adding this feature. - July 2020.
+
+## Get in touch
+- Personal site: [PaulAtKeyboard.com](https://paulatkeyboard.com/)
 
 <!--
 **PaulAtKeyboard/PaulatKeyBoard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
